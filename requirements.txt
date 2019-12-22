@@ -1,0 +1,14 @@
+requests
+redis
+docutils
+xmljson
+coverage
+flake8
+apollo-client
+py-eureka-client
+django-prometheus
+ansible
+paramiko
+flask
+
+
